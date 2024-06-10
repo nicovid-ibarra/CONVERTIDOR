@@ -1,0 +1,18 @@
+          en el punto  X=3593807.4412  Y=6414232.6541  Z=   0.0000
+          en el punto  X=3593875.0673  Y=6414230.3425  Z=   0.0000
+          en el punto  X=3593875.4916  Y=6414211.4973  Z=   0.0000
+          en el punto  X=3593807.8500  Y=6414214.4987  Z=   0.0000
+                  LWPOLYLINE  Capa: "ESPESOR5"
+                            Espacio: Espacio modelo
+                   GrosorLínea: 0.00 mm
+Pulse INTRO para continuar:
+                   Identificador = 2372
+            Cerrada
+    Anchura constante    0.0000
+              área   1249.6123
+         perímetro   170.2162
+          en el punto  X=3593808.2589  Y=6414196.3433  Z=   0.0000
+          en el punto  X=3593875.9160  Y=6414192.6521  Z=   0.0000
+          en el punto  X=3593876.2553  Y=6414177.5859  Z=   0.0000
+          en el punto  X=3593872.3507  Y=6414173.8580  Z=   0.0000
+          en el punto  X=3593808.6677  Y=6414178.1879  Z=   0.0000
